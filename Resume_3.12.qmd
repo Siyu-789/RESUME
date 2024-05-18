@@ -1,0 +1,232 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=5mm
+      - left=13mm
+      - right=13mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \usepackage{wrapfig}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}
+
+{\bf Siyu Chen}
+
+\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}
+
+Mobile: +1-9294027626 ∙ 
+E-mail: siyu2021222@gmail.com ∙ 
+\href{https://alexbass.me/projects.html}{Portfolio}
+
+\end{center}
+\vspace{4pt}
+
+<!-- SUMMARY AND OBJECTIVE -->
+\begin{large}{\bf SUMMARY AND OBJECTIVE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+* Great passion and flair for business models, technology innovation, and a solid grasp of relevant skills
+* Excellent leadership, interpersonal and communication skills, team player with a strong ability to adapt to change and create a collaborative and dynamic team environment
+* Strong data processing, analytical and modeling skills, a strong interest in computer science, curiosity, a passion for critical thinking, and the ability to deconstruct and solve problems through quantitative and qualitative analysis and thinking
+* A well-rounded academic background, excellent and fast learning ability, strong logical thinking skills, strong mathematical foundation, and reasoning ability
+\vspace{1.5pt}
+
+<!-- EDUCATION -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+
+  \setlength{\columnsep}{-7 cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{images/R_logo.png}
+      \hspace{1 mm} 
+      {\bf Rutgers University,New Brunswick, NJ, U.S}\\
+      \hspace{11 mm}Master of Science: Data Science
+    \end{flushleft}
+    \begin{flushright}
+    2024
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \setlength{\columnsep}{-7 cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 45mm 0 0,width=0.04\textwidth]{images/Shanghai_University_Of_Engineering_Science.png}
+      \hspace{1 mm}
+      \textbf{Shanghai University of Engineering Science, Shanghai, China}\\
+      \hspace{10 mm}
+      Bachelor of Engineering: Textile Engineering
+    \end{flushleft}
+    \begin{flushright}
+    2021
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05pt}
+
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \setlength{\columnsep}{-7 cm}  
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 30mm 0 0,width=0.04\textwidth]{images/JMU_logo.png}
+      \hspace{1 mm} {\bf Liverpool John Moorse University, Liverpool, U.K}\\
+      \hspace{11 mm}Semester Exchange Program, Studied in Applied Mathematics
+    \end{flushleft}
+    \begin{flushright}
+    2020
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{1.5pt}
+
+<!-- CERTIFICATES -->
+\begin{large}
+  {\bf CERTIFICATES}
+  \vspace{3pt}
+  \hrule
+
+  \setlength{\columnsep}{-10 cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \includegraphics[trim=0 23mm 0 0,width=0.04\textwidth]{images/sas_logo.jpeg}
+      \hspace{1 mm} {\bf SAS Certified Professional: Advanced Programming Using SAS 9.4}\\
+    \end{flushleft}
+    \begin{flushright}
+    2024
+    \end{flushright}
+  \end{multicols}
+\end{large}
+
+\vspace{1.5pt}
+
+<!-- PROFESSIONAL EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf PROFESSIONAL EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+    \begin{multicols}{2}
+      \begin{flushleft}
+        \hspace{1 mm}
+        \textbf{\href{https://www.moveclub.cn/}{Move Technology (Shanghai) Co., Ltd}}\\
+        \hspace{1 mm}
+        \textit{Program Assistant}
+      \end{flushleft}
+      \begin{flushright}
+        \textbf{Shanghai, China}\\
+        Feb. 2022 – Oct.2022
+      \end{flushright}
+    \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+* Understood the overall planning of the company's project operations and assisted the project director in project preparation, organization and execution
+* Responsible for tracking and managing the smooth running of the project, coordinating internal and external resources, and
+controlling the progress.
+* Assisted in completing market information research, and further cooperated with the technical team to complete the industry user profile analysis and competitor analysis using deep learning algorithms.
+* Assisted colleagues in the technical team to complete the collection and organization of technical information on the application of the company's products in the field, as well as feedback and communication of field problems, and developed strong communication and coordination skills in the actual work
+* Actively communicated with the technical team and asked for professional advice, mastered the basic knowledge of the cloud
+platform, and learned basic artificial intelligence and big data analysis and other technologies
+
+
+\vspace{0.05pt}
+
+<!-- PROFESSIONAL EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{
+      \hspace{1 mm} \bf \href{https://www.tencent.com/}{Tencent Industry Incubation Base}}\\
+      \hspace{1 mm}
+      \textit{Intern, Business Analysis}
+    \end{flushleft}
+    \begin{flushright}
+    \textbf{Shenzhen, China}\\
+    Jul. 2021 - Sept. 2021
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+* Analyzed six incubation projects, including B2C, B2B, and C2C models, and used Tableau to generate word clouds and mind
+maps to present the investment analysis
+* Collected and calculated the average Unique Visitor (UV), registered customers, paying consumers, cash flow, net profit, and Customer Lifetime Value (CLV) of the head products
+* Completed consumer profiling analysis using consumer demographics, as well as user behavior data, media scenarios, and other information, and used social relationship mapping to assist the company in locating and understanding target customer segments and online hotspots to optimize product strategy.
+* Assisted the technical team in building machine learning models to analyze operational activities, return on content (ROC), user lifecycle, and lifecycle value, and generating relevant insights to support ecological construction and improve operational ROI.
+* Participated in dynamic data mining, analysis, and reconstruction of vertical enterprises across the web; Participated in projects to complete accurate targeting and customer mining through billion volume information database and big data retrieval engine.
+
+\vspace{1.5pt}
+
+<!-- ACADEMIC EXPERIENCE: 1ST BULLET-->
+\begin{large}{\bf ACADEMIC EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \setlength{\columnsep}{-7 cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+      \hspace{1 mm}
+      \textbf{College Mathematical Modeling Competition,Team Leader}
+    \end{flushleft}
+    \begin{flushright}
+    Jun. 2020 – Sept. 2020
+    \end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.2cm}
+ * Led a three-person team that used a combination of decision trees, equivalence partitioning, graph theory, neural networks, and Pareto optimality theory to select the optimal solution to maximize the remaining funds given initial funds and a map.
+* Constructed stochastic functions to simulate daily weather conditions and predict daily resource consumption
+* Participated in building mathematical models using MATLAB, VB, and Excel, writing traversal programs to verify the effectiveness of each strategy, coordinating group tasks, and completing final reports.
+
+\vspace{1.5pt}
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+**Languages & Tools** - 
+*proficient:* Python, R, SAS, SQL, LaTex 
+*intermediate:* AWS, Spark, Git, Docker, SPSS, MATLAB, Shiny,  Quarto
+
+**Selected Coursework** - Data Structure and Algorithm Introduction, Database Management, Statistic Learning, Statistic Mining, Convex Optimization, Advanced Programming, Statistic Modeling and Computing, Data Wrangling, Regression and Time Series
+
+\vspace{1.5pt}
+
+<!-- PERSONAL PROJECTS : 1ST BULLET -->
+\begin{large}
+{\bf SELECTED PROJECT}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://alexbass.me/projects/election_model_2024/}{Live Dashboard - 2024 US Pres. Election Forecast}}\end{flushleft}
+    \begin{flushright}January 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.2cm}
+\end{large}
+* Estimate daily a heirarchal bayesian regression model to generate probabilities of election outcomes using latest polls
+* Created a live data pipeline with Github Actions and Python > Live Quarto Dashboard
